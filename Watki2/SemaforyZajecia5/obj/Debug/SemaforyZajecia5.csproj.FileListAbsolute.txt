@@ -1,0 +1,6 @@
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\bin\Debug\SemaforyZajecia5.exe.config
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\bin\Debug\SemaforyZajecia5.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\bin\Debug\SemaforyZajecia5.pdb
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\obj\Debug\SemaforyZajecia5.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\obj\Debug\SemaforyZajecia5.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\SemaforyZajecia5\obj\Debug\SemaforyZajecia5.pdb

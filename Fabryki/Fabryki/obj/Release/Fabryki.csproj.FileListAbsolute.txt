@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\bin\Release\Fabryki.exe.config
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\bin\Release\Fabryki.exe
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\bin\Release\Fabryki.pdb
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\obj\Release\Fabryki.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\obj\Release\Fabryki.exe
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\obj\Release\Fabryki.pdb
+C:\Users\komp2\Documents\GitHub\Fabryki\Fabryki\obj\Release\Fabryki.csprojAssemblyReference.cache

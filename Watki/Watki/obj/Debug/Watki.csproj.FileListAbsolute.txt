@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\bin\Debug\Watki.exe.config
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\bin\Debug\Watki.exe
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\bin\Debug\Watki.pdb
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\obj\Debug\Watki.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\obj\Debug\Watki.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\obj\Debug\Watki.exe
+C:\Users\komp2\Documents\GitHub\Concurrent_and_distributed_programming_simple_projects\Watki\Watki\obj\Debug\Watki.pdb

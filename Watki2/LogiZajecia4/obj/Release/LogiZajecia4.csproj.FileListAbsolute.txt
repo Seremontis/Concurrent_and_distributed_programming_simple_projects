@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\bin\Release\LogiZajecia4.exe.config
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\bin\Release\LogiZajecia4.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\bin\Release\LogiZajecia4.pdb
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\obj\Release\LogiZajecia4.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\obj\Release\LogiZajecia4.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\obj\Release\LogiZajecia4.pdb
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\LogiZajecia4\obj\Release\LogiZajecia4.csprojAssemblyReference.cache

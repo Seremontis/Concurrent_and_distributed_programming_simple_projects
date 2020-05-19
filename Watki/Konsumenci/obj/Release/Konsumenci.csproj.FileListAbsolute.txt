@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\bin\Release\Konsumenci.exe.config
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\bin\Release\Konsumenci.exe
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\bin\Release\Konsumenci.pdb
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\obj\Release\Konsumenci.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\obj\Release\Konsumenci.exe
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\obj\Release\Konsumenci.pdb
+C:\Users\komp2\Documents\GitHub\Watki\Konsumenci\obj\Release\Konsumenci.csprojAssemblyReference.cache

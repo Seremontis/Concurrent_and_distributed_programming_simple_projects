@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\obj\Debug\WatkiZajecia3.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\obj\Debug\WatkiZajecia3.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\bin\Debug\WatkiZajecia3.exe.config
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\bin\Debug\WatkiZajecia3.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\bin\Debug\WatkiZajecia3.pdb
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\obj\Debug\WatkiZajecia3.exe
+C:\Users\komp2\Documents\GitHub\WatkiZajecia3\WatkiZajecia3\obj\Debug\WatkiZajecia3.pdb

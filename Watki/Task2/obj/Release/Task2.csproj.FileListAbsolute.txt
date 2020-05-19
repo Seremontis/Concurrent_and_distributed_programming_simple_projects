@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\Watki\Task2\bin\Release\Task2.exe.config
+C:\Users\komp2\Documents\GitHub\Watki\Task2\bin\Release\Task2.exe
+C:\Users\komp2\Documents\GitHub\Watki\Task2\bin\Release\Task2.pdb
+C:\Users\komp2\Documents\GitHub\Watki\Task2\obj\Release\Task2.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\Watki\Task2\obj\Release\Task2.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\Watki\Task2\obj\Release\Task2.exe
+C:\Users\komp2\Documents\GitHub\Watki\Task2\obj\Release\Task2.pdb

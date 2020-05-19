@@ -1,0 +1,7 @@
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\bin\Debug\FabrykiInvoke.exe.config
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\bin\Debug\FabrykiInvoke.exe
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\bin\Debug\FabrykiInvoke.pdb
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\obj\Debug\FabrykiInvoke.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\obj\Debug\FabrykiInvoke.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\obj\Debug\FabrykiInvoke.exe
+C:\Users\komp2\Documents\GitHub\Fabryki\FabrykiInvoke\obj\Debug\FabrykiInvoke.pdb
