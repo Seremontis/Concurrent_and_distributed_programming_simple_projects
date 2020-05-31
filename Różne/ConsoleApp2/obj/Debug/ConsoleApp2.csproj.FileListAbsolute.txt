@@ -1,0 +1,7 @@
+C:\Users\komp2\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\komp2\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\komp2\Desktop\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\komp2\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\komp2\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\komp2\Desktop\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
